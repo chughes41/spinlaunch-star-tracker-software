@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 26 Feb 2022 22:15:21 -0700
+Source: oresat-star-tracker
+Binary: oresat-star-tracker oresat-star-tracker-dbgsym
+Architecture: armhf
+Version: 0.1.1-0
+Distribution: unstable
+Urgency: low
+Maintainer: PSAS <oresat@pdx.edu>
+Changed-By: PSAS <oresat@pdx.edu>
+Description:
+ oresat-star-tracker - Attitude determination using star tracking on OreSat.
+Changes:
+ oresat-star-tracker (0.1.1-0) unstable; urgency=low
+ .
+   * fix for python3.9
+Checksums-Sha1:
+ 1c82c228ee6654f71181594c1e555748696380b7 376252 oresat-star-tracker-dbgsym_0.1.1-0_armhf.deb
+ 8233812f0fde1daba1e4ac9b42b735d818f7ba97 5198 oresat-star-tracker_0.1.1-0_armhf.buildinfo
+ ebf5fe86316fc1f798fd74375dc9252891d5a755 72100 oresat-star-tracker_0.1.1-0_armhf.deb
+Checksums-Sha256:
+ 5f99f11782c2debb669fae1bda174bf1d265ab909e36aca7396568cd68283bb8 376252 oresat-star-tracker-dbgsym_0.1.1-0_armhf.deb
+ 270d4ece1d840588de02a6cbc8dec1293979f766b7d266d5c57fc89eb3174d28 5198 oresat-star-tracker_0.1.1-0_armhf.buildinfo
+ ef689c35b29d3551f3160056321804d294c8a78830e07c2b202e4c5758d4f4f9 72100 oresat-star-tracker_0.1.1-0_armhf.deb
+Files:
+ 72dce8ea4db281dbdad4fdb2a0ac48f5 376252 debug optional oresat-star-tracker-dbgsym_0.1.1-0_armhf.deb
+ 8a0b9ff4b5320db5b1b2e2c72bda7e0e 5198 python optional oresat-star-tracker_0.1.1-0_armhf.buildinfo
+ 4498bcf043e1e7b5e0496d0472a67bfa 72100 python optional oresat-star-tracker_0.1.1-0_armhf.deb

@@ -1,0 +1,24 @@
+# beast files
+src/beast/beast_wrap.*
+src/beast/_beast.so
+src/beast/beast.py
+
+# pycache
+__pycache__/
+
+# vim swap files
+*.swp
+
+# sphinx build directory
+docs/_build/
+
+# package build directories
+build/
+dist/
+*.egg-info/
+*.debhelper
+*debhelper*
+*.debhelper/
+*.substvars
+debian/oresat_star_tracker
+debian/files
